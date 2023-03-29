@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio-sesion-2",
+  "version": "1.0.0",
+  "description": "Ejercicio de la sesion numero 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "sesion,programmer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelNZ20/practice-sesion-2-JS.git"
+  },
+  "author": "Manuel Walter Navarro Zeta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuelNZ20/practice-sesion-2-JS/issues"
+  },
+  "homepage": "https://github.com/ManuelNZ20/practice-sesion-2-JS#readme"
+}
